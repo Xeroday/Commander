@@ -1,0 +1,1 @@
+<div class="navbar navbar-fixed-bottom"><center>Commander Web Panel (CWP) by <a href="http://www.xeroday.org">Eric Zhang [Xeroday]</a>.</p></div>

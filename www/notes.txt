@@ -1,0 +1,7 @@
+GEOIP:
+http://ip-api.com/docs/api:json
+http://www.watsmyip.net/api-countryname.aspx?ip=8.8.8.8
+https://dazzlepod.com/ip/8.8.8.8.json
+http://ip-api.com/json/208.80.152.201
+http://www.hostip.info/
+http://www.geojoe.co.uk/api/flag/?ip=
